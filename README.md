@@ -4,4 +4,6 @@
 
 Passionate about solving problems using programming ...
 
+"Machines take me by surprise with great frequency" - Alan Turing
+
 See some of my projects [HERE...](https://pedromartinscap.github.io/portfolio/)

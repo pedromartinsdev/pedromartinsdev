@@ -1,11 +1,8 @@
 # Hello World, I'm Pedro Martins :rocket:
 
-- 📘 Bacharel em Direito e Ciências contábeis e apaixonado por programação 
+- 📘 Bacharel em Direito, Ciências contábeis e apaixonado por programação 
 - :rocket: Aluno da Rocketseat
-- :mag: Em busca de projetos opensource para colaborar
-
-
-
+- :mag: Em busca de projetos open source para colaborar
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=false)
 

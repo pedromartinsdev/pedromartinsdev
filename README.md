@@ -4,6 +4,12 @@
 
 Passionate about solving problems using programming ...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinsdev&layout=compact&show_icons=false)](https://github.com/pedromartinsdev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=false)
+
+
+
 "Machines take me by surprise with great frequency" - Alan Turing
 
 See some of my projects [HERE...](https://pedromartinscap.github.io/portfolio/)

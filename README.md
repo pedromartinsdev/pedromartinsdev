@@ -1,15 +1,16 @@
-# Pedro Henrique de O. Martins
+# Hello World, I'm Pedro Martins :rocket:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/) 
+- 📘 Bacharel em Direito e Ciências contábeis e apaixonado por programação 
+- :rocket: Aluno da Rocketseat
+- :mag: Em busca de projetos opensource para colaborar
 
-Passionate about solving problems using programming ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinsdev&layout=compact&show_icons=false)](https://github.com/pedromartinsdev)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=false)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinsdev&layout=compact&show_icons=false)](https://github.com/pedromartinsdev)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/) [![Instagram Badge](https://img.shields.io/badge/-Pedro%20Henrique-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omartins.pedro/)](https://www.instagram.com/omartins.pedro/) 
 
-"Machines take me by surprise with great frequency" - Alan Turing
-
-See some of my projects [HERE...](https://pedromartinscap.github.io/portfolio/)
+#### See some of my projects [HERE...](https://pedromartinscdev.github.io/portfolio/)

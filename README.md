@@ -1,18 +1,22 @@
 # Hello World, I'm Pedro Martins :rocket:
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkdIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omartins.pedro/)](https://www.instagram.com/omartins.pedro/)
+[![Email Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=pedrohenriquem4rtins@gmail.com)](mailto:pedrohenriquem4rtins@gmail.com)
+
 - 📘 Bacharel em Direito, Ciências contábeis e apaixonado por programação 
 - 🚀 Aluno da Rocketseat
 - 🔍 Em busca de conhecimento
 - 💻 Iniciante em Javascript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=false)
+![Pedro](https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinsdev&layout=compact&show_icons=false)](https://github.com/pedromartinsdev)
+<a href="https://github.com/pedromartinsdev?tab=repositories&q=&type=&language=html&sort="><img src="/assets/HTML5.png" align="left" height="48" width="48" ></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/) [![Instagram Badge](https://img.shields.io/badge/-Pedro%20Henrique-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omartins.pedro/)](https://www.instagram.com/omartins.pedro/)
+<a href="https://github.com/pedromartinsdev?tab=repositories&q=&type=&language=html&sort="><img src="/assets/CSS3.png" align="left" height="48" width="48" ></a>
 
+<a href="https://github.com/pedromartinsdev?tab=repositories&q=&type=&language=html&sort="><img src="/assets/JS.png" align="left" height="48" width="41" ></a>
 
-<a href="https://github.com/pedromartinsdev?tab=repositories&q=&type=&language=html&sort="><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" align="left" height="48" width="48" ></a>
+<br>
+<br>
 
-  
 #### See some of my projects [HERE...](https://pedromartinsdev.github.io/portfolio/)

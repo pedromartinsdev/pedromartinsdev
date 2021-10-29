@@ -14,7 +14,5 @@
 
 <a href="https://github.com/pedromartinsdev?tab=repositories&q=&type=&language=html&sort="><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" align="left" height="48" width="48" ></a>
 
-
-  
   
 #### See some of my projects [HERE...](https://pedromartinsdev.github.io/portfolio/)

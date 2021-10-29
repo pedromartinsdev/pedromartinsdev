@@ -6,7 +6,6 @@
 - 📘 Bacharel em Direito, Ciências contábeis e apaixonado por programação 
 - 🚀 Aluno da Rocketseat
 - 🔍 Em busca de conhecimento
-- 💻 Iniciante em Javascript
 
 ![Pedro](https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=false)
 

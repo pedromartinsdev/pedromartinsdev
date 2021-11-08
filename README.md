@@ -1,21 +1,21 @@
-# Hello World, I'm Pedro Martins :rocket:
+## Hello World, I'm Pedro Martins :rocket:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkdIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omartins.pedro/)](https://www.instagram.com/omartins.pedro/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=pedrohenriquem4rtins@gmail.com)](mailto:pedrohenriquem4rtins@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omartins.pedro/)](https://www.instagram.com/omartins.pedro/)
+[![Email Badge](https://img.shields.io/badge/-pedrohenriquem4rtins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=pedrohenriquem4rtins@gmail.com)](mailto:pedrohenriquem4rtins@gmail.com)
 
-- 📘 Bacharel em Direito, Ciências contábeis e apaixonado por programação 
-- 🚀 Aluno da Rocketseat
-- 🔍 Em busca de conhecimento
-
-![Pedro](https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=false)
-
-<a href="https://github.com/pedromartinsdev?tab=repositories&q=&type=&language=html&sort="><img src="/assets/HTML5.png" align="left" height="48" width="48" ></a>
-
-<a href="https://github.com/pedromartinsdev?tab=repositories&q=&type=&language=html&sort="><img src="/assets/CSS3.png" align="left" height="48" width="48" ></a>
-
-<a href="https://github.com/pedromartinsdev?tab=repositories&q=&type=&language=html&sort="><img src="/assets/JS.png" align="left" height="48" width="41" ></a>
+<p>
+💻 Future fullstack developer <br>
+✔️ Available to contribute to opensource projects 
+</p>
 
 <br>
-<br>
-
-#### See some of my projects [HERE...](https://pedromartinsdev.github.io/portfolio/)
+ <div align="left">
+  <a href="https://github.com/pedromartinsdev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinsdev&layout=compact&langs_count=7"/>
+  </a>
+ </div>
+<br> 
+  
+See some of my projects [HERE...](https://pedromartinsdev.github.io/portfolio/)

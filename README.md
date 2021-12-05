@@ -5,8 +5,9 @@
 [![Email Badge](https://img.shields.io/badge/-pedrohenriquem4rtins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=pedrohenriquem4rtins@gmail.com)](mailto:pedrohenriquem4rtins@gmail.com)
 
 <p>
-💻 Future fullstack developer <br>
-✔️ Available to contribute to opensource projects 
+ 🚀 <a href="https://github.com/pedromartinsdev">Rocketseat</a> student <br>
+ 💻 Future fullstack developer <br>
+ ✔️ Available to contribute to opensource projects
 </p>
 
 <br>

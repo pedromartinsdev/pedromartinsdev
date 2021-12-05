@@ -1,6 +1,6 @@
 ## Hello World, I'm Pedro Martins :rocket:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pedrohenriquemartinsdev)](www.linkedin.com/in/pedrohenriquemartinsdev) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omartins.pedro/)](https://www.instagram.com/omartins.pedro/)
 [![Email Badge](https://img.shields.io/badge/-pedrohenriquem4rtins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=pedrohenriquem4rtins@gmail.com)](mailto:pedrohenriquem4rtins@gmail.com)
 

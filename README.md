@@ -13,10 +13,13 @@
 <br>
  <div align="left">
   <a href="https://github.com/pedromartinsdev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinsdev&layout=compact&langs_count=7&theme=tokyonight"/>
+     <p align="left">
+       <img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=true&theme=tokyonight" alt="Pedro's stats"/>
+       <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinsdev&layout=compact&theme=tokyonight" alt="Pedro's most languages"/>
+     </p>
   </a>
  </div>
+               
 <br> 
   
 See some of my projects [HERE...](https://pedromartinsdev.github.io/portfolio/)

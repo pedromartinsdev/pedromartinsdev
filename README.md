@@ -10,16 +10,11 @@
  ✔️ Available to contribute to opensource projects
 </p>
 
-<br>
- <div align="left">
+ <div>
   <a href="https://github.com/pedromartinsdev">
-     <p align="left">
-       <img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=true&theme=tokyonight" alt="Pedro's stats"/>
-       <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinsdev&layout=compact&theme=tokyonight" alt="Pedro's most languages"/>
-     </p>
-  </a>
- </div>
-               
-<br> 
-  
-See some of my projects [HERE...](https://pedromartinsdev.github.io/portfolio/)
+       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=true&theme=tokyonight" alt="Pedro's stats"/>
+       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinsdev&layout=compact&theme=tokyonight" alt="Pedro's most languages"/>
+ <div style="display: inline_block"><br>
+</div>
+        
+[See some of my projects HERE...](https://pedromartinsdev.github.io/portfolio/)

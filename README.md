@@ -17,4 +17,4 @@
  <div style="display: inline_block"><br>
 </div>
         
-[See some of my projects HERE...](https://pedromartinsdev.github.io/portfolio/)
+[See my portfolio here](https://pedromartinsdev.github.io/portfolio/)

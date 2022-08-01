@@ -4,15 +4,15 @@
 
 # Hello World, I'm Pedro Martins :rocket:
 
- - 💻 Future fullstack developer
+- 💻 Future Frontend developer
 
 - 👨‍💻 All of my projects are available at [portfolio](https://pedromartinsdev.github.io/portfolio/)
 
 - 💬 Ask me about **HTML and CSS**
 
- - 🚀 <a href="https://github.com/pedromartinsdev">Rocketseat</a> student
+- 🚀 <a href="https://github.com/pedromartinsdev">Rocketseat</a> student
 
- - ✔️ Available to contribute to opensource projects
+- ✔️ Available to contribute to opensource projects
 
 <br><br>
 

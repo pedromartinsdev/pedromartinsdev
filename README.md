@@ -1,7 +1,3 @@
-
-
-<img align="right" height="590em" src="/assets/Motivation.txt.png"/>
-
 # Hello World, I'm Pedro Martins :rocket:
 
 - 💻 Future Frontend developer
@@ -14,7 +10,7 @@
 
 - ✔️ Available to contribute to opensource projects
 
-<br><br>
+## :speech_balloon: [Social Links](https://pedromartinsdev.github.io/social-tree/)
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -26,13 +22,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
-
-<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<!-- <img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedromartinsdev&show_icons=true&theme=vision-friendly-dark" alt="Pedromartins's stats"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinsdev&layout=compact&theme=vision-friendly-dark" alt="Pedromartins's most languages"/>
 </p>

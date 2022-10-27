@@ -1,6 +1,6 @@
 # Hello World, I'm Pedro Martins :rocket:
 
-- 💻 Future Frontend developer
+- 💻 Front-end developer
 
 - 👨‍💻 All of my projects are available at [portfolio](https://pedromartinsdev.github.io/portfolio/)
 

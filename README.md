@@ -1,23 +1,20 @@
-# Hello World, I'm Pedro Martins :rocket:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00CF08&repeat=false&width=435&lines=Hello+world!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00CF08&repeat=false&width=435&lines=Welcome+to+my+GitHub!+🚀)](https://git.io/typing-svg)
 
 - 💻 Front-end developer
 
 - 👨‍💻 All of my projects are available at [portfolio](https://pedromartinsdev.github.io/portfolio/)
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about HTML and CSS
 
-- 🚀 <a href="https://github.com/pedromartinsdev">Rocketseat</a> student
+- 🚀 Rocketseat student
 
 - ✔️ Available to contribute to opensource projects
 
-## :speech_balloon: [Social Links](https://pedromartinsdev.github.io/social-tree/)
+- 🔗 My social [links](https://pedromartinsdev.github.io/social-tree/)
 
-## 🛠 &nbsp;Tech Stack
+### Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)  ![REACT](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)

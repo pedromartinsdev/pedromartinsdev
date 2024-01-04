@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://pedromartinsdev.github.io/portfolio/)
 
-- 💬 Ask me about HTML and CSS
+- 💬 Ask me about HTML, CSS and JS
 
 - 🚀 Rocketseat student
 

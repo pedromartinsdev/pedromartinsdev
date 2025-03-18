@@ -2,7 +2,7 @@
 Sou um desenvolvedor backend apaixonado por criar soluções ágeis e eficientes. Estou sempre em busca de novas tecnologias e práticas que otimizem o desempenho e garantam a escalabilidade dos sistemas.  
 
 💻 **Desenvolvedor Backend**  
-👨‍💻 Meus projetos estão disponíveis em [meu portfólio](https://pedromartinsdev.github.io/portfolio/)
+👨‍💻 Meus projetos estão disponíveis em [meu portfólio](https://pedromartinsdev.github.io/portfolio/) </br>
 💬 Pergunte-me sobre **Node.js, Python, APIs REST, Bancos de Dados** e boas práticas de desenvolvimento backend  
 📚 **Aprimorando habilidades em desenvolvimento backend**  
 ✔️ Disponível para contribuir com projetos open-source  

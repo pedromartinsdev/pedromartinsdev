@@ -1,17 +1,16 @@
+## 🚀 **Hello, World!** 👋  
+Sou um desenvolvedor backend apaixonado por criar soluções ágeis e eficientes. Estou sempre em busca de novas tecnologias e práticas que otimizem o desempenho e garantam a escalabilidade dos sistemas.  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00CF08&repeat=false&width=435&lines=Hello+world!+Welcome+to+my+GitHub!+🚀)](https://git.io/typing-svg)
+💻 **Desenvolvedor Backend**  
+👨‍💻 Meus projetos estão disponíveis em [meu portfólio](https://pedromartinsdev.github.io/portfolio/)
+💬 Pergunte-me sobre **Node.js, Python, APIs REST, Bancos de Dados** e boas práticas de desenvolvimento backend  
+📚 **Aprimorando habilidades em desenvolvimento backend**  
+✔️ Disponível para contribuir com projetos open-source  
+🌱 Sempre explorando novas tecnologias para desenvolvimento backend  
 
-- 💻 Front-end developer
+🔗 **Vamos conectar?**  
+[LinkedIn](https://www.linkedin.com/in/pedro-dev/) | [GitHub](https://github.com/pedromartinsdev) | [Twitter](https://x.com/pedromartinsdev)  
 
-- 👨‍💻 All of my projects are available at [portfolio](https://pedromartinsdev.github.io/portfolio/)
-
-- 💬 Ask me about HTML, CSS and JS
-
-- 🚀 Rocketseat student
-
-- ✔️ Available to contribute to opensource projects
-
-- 🔗 My social [links](https://pedromartinsdev.github.io/social-tree/)
 
 ### Stack
 
